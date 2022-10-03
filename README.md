@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryh04x?tab=repositories](https://github.com/ryh04x?tab=repositories)
 
-- 📝 I regularly write articles on [https://cyberzfascinate.blogspot.com/](https://cyberzfascinate.blogspot.com/)
+- 📝 I regularly write articles on [https://ryh04x.blogspot.com/](https://ryh04x.blogspot.com/)
 
-- 📫 How to reach me **ryh04x@gmail.com**
+- 📫 How to reach me **work4rhythm@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
