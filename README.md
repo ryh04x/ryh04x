@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhythm</h1>
-<h3 align="center">Student at DAVIM🌟.</h3>
+<h3 align="center">Student at UPES🌟.</h3>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryh04x&label=Profile%20views&color=0e75b6&style=flat" alt="ryh04x" /> </p>
